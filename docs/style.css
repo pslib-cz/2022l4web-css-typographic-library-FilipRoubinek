@@ -140,3 +140,6 @@ li {
     flex-wrap: wrap;
     justify-content: center;
 }
+code {
+    background-color: azure;
+}
