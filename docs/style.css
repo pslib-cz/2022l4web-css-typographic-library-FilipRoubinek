@@ -4,9 +4,6 @@ body {
 }
 nav {
     background-color:rgb(0, 81, 255) ;
-    position: fixed;
-    top: 0;
-    left: 0;
 }
 nav ul {
     display: flex;
