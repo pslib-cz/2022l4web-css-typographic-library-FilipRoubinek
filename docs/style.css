@@ -7,6 +7,7 @@ nav {
 }
 nav ul {
     display: flex;
+    flex-direction: row;
     justify-content: space-evenly;
 }
 nav ul a {
