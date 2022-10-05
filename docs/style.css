@@ -24,7 +24,7 @@ section {
 }
 .wrapper {
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
 p {
     max-width: 900px;
