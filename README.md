@@ -12,16 +12,16 @@ This Library functions as starting point for building your website. Elements are
 3. [Components](#Components)
    1. [Colours](#Colours)
    2. [Body](#Body)
-   3. [Navigation bar](#Navigation bar)
-   4. [Section & .wrapper](#Section & .wrapper)
+   3. [Navigation bar](#Navigation-bar)
+   4. [Section & .wrapper](#Section-&-.wrapper)
    5. [Headings](# Headings)
-   6. [Text tags](#Text tags)
+   6. [Text tags](#Text-tags)
    7. [Quotes](#Quotes)
    8. [Lists](#Lists)
    9. [Table](#Table)
    10. [Buttons](#Buttons)
-   11. [Pictures and gallery](#Pictures and gallery)
-   12. [Code showcase](#Code showcase)
+   11. [Pictures and gallery](#Pictures-and-gallery)
+   12. [Code showcase](#Code-showcase)
   
 ## Implementation
 Download style.css file at **[docs/](https://github.com/pslib-cz/2022l4web-css-typographic-library-FilipRoubinek)** folder and implement it into your site by connecting it with your HTML code in the `<head>` part
