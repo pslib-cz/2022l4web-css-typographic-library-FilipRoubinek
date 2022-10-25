@@ -25,8 +25,12 @@ The whole body of your HTML code has predifined gradient color used `--var` valu
 Navigation bar is made using tag `<nav>` and tag `<a>`. Using function flex and borders forms quite neat box of options to choose which part of site we want to scroll to.
 
 ### Section & .wrapper
+Tag `<section>` is defined by class `.presec` (predefined section) for easy writing. Section has slight padding and margin for content visibility
+
+Class `.wrapper` is used for centralizing content in the middle directing down. It's used in every section of content except `<nav>`, which is defined alone.
 
 ### Headings
+Tag `<h>` is defined directly, without class, because it has 
 
 ### Text tags
 
