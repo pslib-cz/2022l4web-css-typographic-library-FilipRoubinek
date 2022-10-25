@@ -14,7 +14,7 @@ This Library functions as starting point for building your website. Elements are
    2. [Body](#Body)
    3. [Navigation bar](#Navigation-bar)
    4. [Section & .wrapper](#Section-&-.wrapper)
-   5. [Headings](# Headings)
+   5. [Headings](#Headings)
    6. [Text tags](#Text-tags)
    7. [Quotes](#Quotes)
    8. [Lists](#Lists)
