@@ -7,21 +7,21 @@ Link to **[demo](https://pslib-cz.github.io/2022l4web-css-typographic-library-Fi
 ## Description
 This Library functions as starting point for building your website. Elements are by named by places they are used on. This library helps you with setting up quickly your site with the basic improvements using raw tags. Description of seperate components is made chronologicaly from CSS file for quick navigation.
 ## Navigation
-1.[Implementation](#Implementation)
-2.[Usage](#Usage)
-3.[Components](#Components)
-  3.1Colours[](#Colours)
-  3.2[Body](#Body)
-  3.3[Navigation bar](#Navigation bar)
-  3.4[Section & .wrapper](#Section & .wrapper)
-  3.5[Headings](# Headings)
-  3.6[Text tags](#Text tags)
-  3.7[Quotes](#Quotes)
-  3.8[Lists](#Lists)
-  3.9[Table](#Table)
-  3.10[Buttons](#Buttons)
-  3.11[Pictures and gallery](#Pictures and gallery)
-  3.12[Code showcase](#Code showcase)
+1. [Implementation](#Implementation)
+2. [Usage](#Usage)
+3. [Components](#Components)
+  3.1 [Colours](#Colours)
+  3.2 [Body](#Body)
+  3.3 [Navigation bar](#Navigation bar)
+  3.4 [Section & .wrapper](#Section & .wrapper)
+  3.5 [Headings](# Headings)
+  3.6 [Text tags](#Text tags)
+  3.7 [Quotes](#Quotes)
+  3.8 [Lists](#Lists)
+  3.9 [Table](#Table)
+  3.10 [Buttons](#Buttons)
+  3.11 [Pictures and gallery](#Pictures and gallery)
+  3.12 [Code showcase](#Code showcase)
   
 ## Implementation
 Download style.css file at **[docs/](https://github.com/pslib-cz/2022l4web-css-typographic-library-FilipRoubinek)** folder and implement it into your site by connecting it with your HTML code in the `<head>` part
