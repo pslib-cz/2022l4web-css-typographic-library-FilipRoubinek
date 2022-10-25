@@ -40,11 +40,11 @@ Tag `<h>` is defined directly, without class. This is done for the sole purpose 
 * 8px for `<h6>`
 
 ### Text tags
-#### Strike
+#### `Strike`
 Used on text that has been redacted. Color changed by value `var`
-#### a
+#### `a`
 Link in text left with it's default color for good visibility in text and stripped of underline
-#### .underline
+#### `.underline`
 `span` class for highlighted text using underline
 #### Undefined tags
 Tags `<b>``<i>``<small>` were left with their browser values.
@@ -61,7 +61,7 @@ Tags for making lists weren't changed, just tag `<li>` was given some padding fo
 Custom table was given class `.pretable`. It's values were changed, so that the it's brackets are together spanning the whole width of their parent tag. The head of the table has changed color with value `var`.
 
 ### Buttons
-Buttons were made by modifying tag `<a class="btn">` to version that is visible at **[demo](https://pslib-cz.github.io/2022l4web-css-typographic-library-FilipRoubinek/)**.
+Buttons were made by modifying tag `<a class="btn">` to version that is visible at **[demo](https://pslib-cz.github.io/2022l4web-css-typographic-library-FilipRoubinek/)** site.
 
 Showcased buttons with class `btm-calm``btn-hover` and `btn-clicked` aren't meant for usage and are in code just for the sole purpose of showing how button looks in different stages (calm, hovered and clicked).
 
@@ -105,3 +105,4 @@ Here is short showcase of HTML code for you to see how some tags are used (in th
         </div>
     </section>
 ```
+Thanks for reading and have a nice day!
